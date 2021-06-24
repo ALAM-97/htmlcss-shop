@@ -26,6 +26,10 @@
     padding: 20px 5px 5px 5px;
 }
 
+.product-row2 img {
+    padding: 70px 5px 5px 5px;
+}
+
 .image-hiden {
     position: absolute;
     top: 0;
@@ -47,6 +51,10 @@
     background-color: white;
     padding: 5px 25px;
     border-radius: 10px 0 0 10px;
+}
+
+.heart-row2 {
+    top: 90px;
 }
 
 .product:hover .heart{
