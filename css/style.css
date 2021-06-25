@@ -45,16 +45,12 @@
 
 .heart {
     position: absolute;
-    top: 40px;
+    bottom: 470px;
     right: 0px;
     font-size: 30px;
     background-color: white;
     padding: 5px 25px;
     border-radius: 10px 0 0 10px;
-}
-
-.heart-row2 {
-    top: 90px;
 }
 
 .product:hover .heart{
